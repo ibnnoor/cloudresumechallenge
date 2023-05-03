@@ -1,0 +1,31 @@
+* {
+    max-width: 700px;
+    margin: auto;
+    background-color: gainsboro;
+  }
+
+body {
+    background-color: beige;
+}
+
+section {
+    margin: 50px;
+    border-radius: 5px;
+    border-bottom: 5px solid black;
+  }
+
+
+h1 {
+    font-size: 25px;
+
+}
+
+.introduction {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 90%;
+    height: 80%;
+
+    
+}
